@@ -1,0 +1,6 @@
+com\cms\controller\LoadController.class
+com\cms\model\DesignationVO.class
+com\cms\HibernateConfiguration.class
+com\cms\controller\FacultyController.class
+com\cms\Application.class
+com\cms\controller\DesignationController.class
